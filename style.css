@@ -27,3 +27,16 @@ body{
     background-position-y: bottom;
     background-size: 140px;
 }
+.see-more-btn{
+    color: #FF9D00;
+    text-decoration: none;
+}
+.card{
+    padding: 40px;
+    border: none;
+    box-shadow: 8px 8px 20px lightgray;
+}
+.card-footer{
+    background: none;
+    border-top: none;
+}
