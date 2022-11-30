@@ -40,3 +40,18 @@ body{
     background: none;
     border-top: none;
 }
+.cate-heading{
+    text-align: center;
+}
+.line{
+    width: 150px;
+    height: 5px;
+    background-image: linear-gradient(45deg,#FF9C35,#FFD019);
+    margin: auto;
+    border-radius: 15px;
+}
+.cate-img{
+    box-shadow: 8px 8px 20px lightgray;
+    padding: 50px;
+    border-radius: 10px;
+}
