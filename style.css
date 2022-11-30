@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+    padding-right: 30px!important;
+}
+.carousel-img-center{
+    height: 350px;
+}
+.text-clr{
+    color: #707070;
+    font-weight: 300;
+}
+.button-style{
+    background: #000;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.container{
+    margin-bottom: 100px;
+}
+#banner{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position-y: bottom;
+    background-size: 140px;
+}
